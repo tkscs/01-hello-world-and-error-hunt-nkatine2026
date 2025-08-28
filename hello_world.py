@@ -1,5 +1,4 @@
 print("Tyler is getting recruited at CU Boulder")
-print("Timmy has no common sense and is going somewhere")
 print("Katine is getting into WashU")
 print("Tal is going to a T20")
 print("Henry is off to Foothill")
